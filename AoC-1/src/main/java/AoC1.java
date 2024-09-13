@@ -7,6 +7,7 @@ public class AoC1 {
     public static void main(String[] args) throws IOException {
         String path = "src/main/resources/input.txt";
 
+
         try {
             ParserFile parserFile = new ParserFile(path);
 
