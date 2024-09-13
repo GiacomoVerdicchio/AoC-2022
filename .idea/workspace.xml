@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b2b29a8-848a-404e-af94-b07d7661cb28" name="Changes" comment="AoC-1 comit" />
+    <list default="true" id="8b2b29a8-848a-404e-af94-b07d7661cb28" name="Changes" comment="AoC-1 rename folder">
+      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC-1/src/main/java/AoC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/AoC-1/src/main/java/AoC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC-1/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC-1/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC-1/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC-1/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2m1ABqW9Qeq154qKxpITS7GxotD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,8 +33,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/giaco/OneDrive - Politecnico di Milano/POLI/Altro/JAVA/AoC-2022",
+    "last_opened_file_path": "C:/Users/giaco/OneDrive - Politecnico di Milano/POLI/Altro/JAVA/AoC-2022/Aoc-2022--new",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726233575251</updated>
       <workItem from="1726233576497" duration="968000" />
+      <workItem from="1726234554781" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="AoC-1 comit">
       <option name="closed" value="true" />
@@ -68,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726233996089</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="AoC-1 rename folder">
+      <option name="closed" value="true" />
+      <created>1726234750139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726234750139</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AoC-1 comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="AoC-1 comit" />
+    <MESSAGE value="AoC-1 rename folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="AoC-1 rename folder" />
   </component>
 </project>
