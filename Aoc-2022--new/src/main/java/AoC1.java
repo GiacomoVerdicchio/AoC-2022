@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main {
+public class AoC1 {
     public static void main(String[] args) throws IOException {
         String path = "src/main/resources/input.txt";
 

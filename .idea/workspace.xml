@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b2b29a8-848a-404e-af94-b07d7661cb28" name="Changes" comment="AoC-1 comit">
-      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aoc-2022--new/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8b2b29a8-848a-404e-af94-b07d7661cb28" name="Changes" comment="AoC-1 comit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AoC-1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -58,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726233575251</updated>
-      <workItem from="1726233576497" duration="749000" />
+      <workItem from="1726233576497" duration="968000" />
     </task>
     <task id="LOCAL-00001" summary="AoC-1 comit">
       <option name="closed" value="true" />
